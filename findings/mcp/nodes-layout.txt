@@ -1,0 +1,15 @@
+Design frame: 1440x6491
+
+Y positions from MCP context (for future section-by-section rebuild):
+- Top nav (148:515): y=0 h=90
+- Hero container (282:16): y=90 h=854
+- White body start: y=944
+- How It Works heading/cards (148:517): starts around y=1064 / cards at y=1234
+- Applications (148:606): y=2018..2520
+- Services (148:609): y=2640..3188
+- Testimonials (148:615): y=3308..4147
+- Blog (148:612): y=4267..4795
+- Contact (148:563): heading around y=5035, card from y=5205..5936
+- Footer (703:380): y=6083..6491
+- Floating Coming Soon (703:2445): x=1387 y=312 w=53 h=297
+- Floating WhatsApp (703:2431): x=1387 y=629 w=53 h=54
